@@ -1,1 +1,3 @@
-# CNN-Img-classification
+Described below are discussion and steps that I did to train and evaluate the performance of my CNN model.
+
+<h3>Dataset:</h3> The dataset I have used for this assignment is CIFAR10 (Krizhevsky, 2009). The CIFAR10 dataset consists of 60,000 tiny 32*32*3 color images. The images are of 10 classes – 'airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'. I divided the dataset into training set consisting of 50,000 images and test set consisting of 10,000 Images. The training dataset was perfectly balance with each class having 5000 images, as can be seen from the fig.1 below.
